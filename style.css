@@ -367,21 +367,6 @@ body.menu-expanded button path {
   background-size: contain;
 }
 
-/*#home::before {
-  content: '';
-  width: 100%;
-  height: calc(77% + var(--nav-height));
-  background-color: var(--third-color);
-  display: block;
-
-  background-image: url(./assents/PNG/S-Antônio-Pattern-003.png);
-  background-size: contain;
-
-  position: absolute;
-  top: 0;
-  left: 0;
-  z-index: -1;
-}*/
 
 #home p {
   font-size: 1.8rem;
